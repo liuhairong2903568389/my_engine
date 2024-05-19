@@ -1,0 +1,3 @@
+﻿  application.cpp
+D:\workspace_c++_\git_project\engine_OpenGL\src\application.cpp(81,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  engine_OpenGL.vcxproj -> D:\workspace_c++_\git_project\engine_OpenGL\Debug\engine_OpenGL.exe
